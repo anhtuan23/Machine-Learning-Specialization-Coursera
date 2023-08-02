@@ -1,0 +1,7 @@
+{
+    "python.analysis.diagnosticMode": "openFilesOnly",
+    "cSpell.words": [
+        "deeplearning",
+        "mplstyle"
+    ]
+}
