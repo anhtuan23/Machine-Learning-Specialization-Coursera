@@ -5,6 +5,7 @@ description = ""
 authors = ["anhtuan23 <dotuananh.dta@gmail.com>"]
 readme = "README.md"
 packages = [{include = "machine_learning_specialization_coursera"}]
+virtualenvs.in-project = true
 
 [tool.poetry.dependencies]
 python = ">=3.11,<3.12"
